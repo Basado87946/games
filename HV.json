@@ -12,26 +12,26 @@
     ]
   },
   {
-    "buildid": "13800000",
-    "name": "Crimson Desert",
+    "buildid": "15768824",
+    "name": "EA SPORTS FC 25",
     "fixes": [
       {
-        "href": "https://raw.githubusercontent.com/RagnarokManifests/games/HYPERVISOR/bypasses/Crimson_Desert_v1.09.00_DenuvOwO.rar",
-        "filename": "Crimson Desert v1.09.00 Bypass.rar",
-        "size": "24 MB",
+        "href": "https://raw.githubusercontent.com/RagnarokManifests/games/HYPERVISOR/bypasses/FC25%20Bypass.rar",
+        "filename": "FC25 Bypass.rar",
+        "size": "15 MB",
         "badges": ["HyperVisor", "Denuvo"]
       }
     ]
   },
   {
-    "buildid": "23481646",
+    "buildid": "15768824",
     "name": "EA SPORTS FC 26",
     "fixes": [
       {
         "href": "https://github.com/RagnarokManifests/RagGnarokSplash/releases/download/EA.SPORTS.FC.26.v2-DenuvOwO/EA.SPORTS.FC.26.v2-DenuvOwO.rar",
-        "filename": "EA.SPORTS.FC.26.v2-DenuvOwO.rar",
-        "size": "18 MB",
-              "badges": ["HyperVisor", "Denuvo"]
+        "filename": "FC26 Bypass.rar",
+        "size": "15 MB",
+        "badges": ["HyperVisor", "Denuvo"]
       }
     ]
   }
