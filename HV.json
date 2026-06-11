@@ -23,16 +23,15 @@
       }
     ]
   },
-  {
+ {
     "buildid": "23481646",
     "name": "EA SPORTS FC 26",
     "fixes": [
       {
-        "href": "https://raw.githubusercontent.com/RagnarokManifests/games/HYPERVISOR/bypasses/EA.SPORTS.FC.26.v2-DenuvOwO.rar",
+        "href": "https://www.mediafire.com/file/v1sz7z25d35fbof/EA.SPORTS.FC.26.v2-DenuvOwO.rar/file",
         "filename": "EA.SPORTS.FC.26.v2-DenuvOwO.rar",
-        "size": "18 MB",
+        "size": "Desconocido",
         "badges": ["HyperVisor", "Denuvo"]
       }
     ]
   }
-]
