@@ -13,11 +13,11 @@
   },
   {
     "buildid": "15768824",
-    "name": "EA SPORTS FC 25",
+    "name": "Crimson Desert",
     "fixes": [
       {
-        "href": "https://raw.githubusercontent.com/RagnarokManifests/games/HYPERVISOR/bypasses/FC25%20Bypass.rar",
-        "filename": "FC25 Bypass.rar",
+        "href": "https://raw.githubusercontent.com/RagnarokManifests/games/HYPERVISOR/bypasses/Crimson_Desert_v1.09.00_DenuvOwO.rar",
+        "filename": "Crimson_Desert_v1.09.00_DenuvOwO.rar",
         "size": "15 MB",
         "badges": ["HyperVisor", "Denuvo"]
       }
